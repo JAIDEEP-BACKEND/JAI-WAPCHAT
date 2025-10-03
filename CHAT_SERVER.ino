@@ -18,7 +18,7 @@
 Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST);
 
 // --- Wi-Fi Configuration ---
-const char* ssid = "ChatESP32";
+const char* ssid = "JAI$WAPCHAT";
 const char* password = "12345678";
 
 // --- Web Server and WebSocket Setup ---
